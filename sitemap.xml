@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://leezii.github.io/post/my-first-blog/</loc>
-    <lastmod>2021-02-15T21:18:17+08:00</lastmod>
+    <loc>https://leezii.github.io/post/</loc>
+    <lastmod>2021-02-16T21:53:53+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://leezii.github.io/post/</loc>
-    <lastmod>2021-02-15T21:18:17+08:00</lastmod>
+    <loc>https://leezii.github.io/post/pve-synology/</loc>
+    <lastmod>2021-02-16T21:53:53+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://leezii.github.io/</loc>
+    <lastmod>2021-02-16T21:53:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leezii.github.io/post/my-first-blog/</loc>
     <lastmod>2021-02-15T21:18:17+08:00</lastmod>
   </url>
   

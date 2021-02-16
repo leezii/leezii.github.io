@@ -6,7 +6,16 @@
     <description>Recent content in Posts on 只言片语</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Feb 2021 21:18:17 +0800</lastBuildDate><atom:link href="https://leezii.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 21:53:53 +0800</lastBuildDate><atom:link href="https://leezii.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pve Synology</title>
+      <link>https://leezii.github.io/post/pve-synology/</link>
+      <pubDate>Tue, 16 Feb 2021 21:53:53 +0800</pubDate>
+      
+      <guid>https://leezii.github.io/post/pve-synology/</guid>
+      <description>HP MicroServer Gen8 安装 Synology 基本情况 Intel E3 1265Lv2 + 16G DDR3 + 32G SDCard + 8T * 4 HDD + 256G SSD 使用 jun&amp;rsquo;s loader 3615xs 1.02b 安装要点 修改 PVE 支持 Intel E1000e网卡 机器类型选择q35 网卡mac修改为grub.cfg配置的mac，默认为00:11:32:2C:A7:85</description>
+    </item>
+    
     <item>
       <title>My First Blog</title>
       <link>https://leezii.github.io/post/my-first-blog/</link>
